@@ -3,6 +3,12 @@
 前端: element-admin-template
 后端: node
 
+`介绍`
+
+```
+把element-admin-template的一些功能都简单使用一遍,再对一些常用的插件进行封装,常用的组件样式进行自定义修改
+```
+
 # 启动
 
 一:拉取代码
