@@ -8,7 +8,7 @@
 一:拉取代码
 
 ```
-git clone git@github.com:mfxhb/vue-admin-eleAdminProV2.git
+git clone git@github.com:mfxhb/vue-admin-elem-proV2.git
 ```
 
 二 :启动服务
