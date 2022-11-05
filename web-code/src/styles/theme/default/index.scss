@@ -1,0 +1,8 @@
+@mixin login {
+  --login-page-background: #283443;
+}
+
+:root {
+  @include login();
+  --page-background: #e3e3e3;
+}

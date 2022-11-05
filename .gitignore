@@ -1,0 +1,16 @@
+web-code/.DS_Store
+web-code/node_modules/
+serve/node_modules
+web-code/dist/
+web-code/npm-debug.log*
+web-code/yarn-debug.log*
+web-code/yarn-error.log*
+web-code/package-lock.json
+web-code/tests/**/coverage/
+
+# Editor directories and files
+web-code/.idea
+web-code/*.suo
+web-code/*.ntvs*
+web-code/*.njsproj
+web-code/*.sln

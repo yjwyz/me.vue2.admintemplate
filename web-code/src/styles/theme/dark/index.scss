@@ -1,0 +1,8 @@
+@mixin login {
+  --login-page-background: gray;
+}
+
+:root[data-theme='dark'] {
+  @include login();
+  --page-background: #e3e3e3;
+}
